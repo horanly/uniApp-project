@@ -310,7 +310,8 @@
 			}
 		}
 	],
-	"subPackages": [{
+	"subPackages": [
+		{
 			"root": "pages/API",
 			"pages": [{
 					"path": "login/login",
